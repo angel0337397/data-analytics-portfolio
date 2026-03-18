@@ -4,7 +4,7 @@
 
 > Causal Inference · Python · RCT Design · LLM Augmentation · Hypothesis Testing · OLS Regression  
 > Emory University — QTM 385: Experimental Methods (AI/NLP)  
-> Team: Mingke Tian, Nicole Chen, Anny Huang, Zixuan Li
+> Team: Zixuan Li,Mingke Tian, Nicole Chen, Anny Huang
 
 ---
 
