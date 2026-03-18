@@ -55,6 +55,16 @@ Collaborated with Techbridge to develop machine learning models optimizing biddi
 
 ---
 
+## 05 · Causal Alignment Prompting (CAP) — LLM Synthetic Survey Augmentation
+
+> *Causal Inference · Python · RCT Design · LLM Augmentation · Hypothesis Testing*
+
+Tested whether large language models can act as synthetic survey respondents to augment a small policy-framing RCT without distorting causal estimates. Designed and implemented **Causal Alignment Prompting (CAP)** — a preregistered validation framework — on a two-arm gain vs. loss experiment (N = 253). The augmentation failed equivalence criteria, demonstrating why structured validation protocols matter before using AI-generated data for inference.
+
+→ [View project: 05\_CAP-llm-augmentation](./05_CAP-llm-augmentation/)
+
+`Python` `LLM Augmentation` `RCT Design` `Causal Inference` `Hypothesis Testing` `Experimental Methods`
+
 ## 🧰 Skills Demonstrated
 
 | Skill | Projects |
