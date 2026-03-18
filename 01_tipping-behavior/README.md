@@ -2,7 +2,7 @@
 **[← Back to Portfolio](../README.md)**
 
 > Statistical Analysis · Python · OLS Regression · Hypothesis Testing  
-> Emory University — ISOM 352: Business Analytics  
+> Emory University — Business Analytics  
 > Team: Zixuan Li, Sam Grinberg, Grant Lichtman, Natalie Ronen
 
 ---
