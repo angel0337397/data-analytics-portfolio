@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/li-zixuan/)
 [![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:Zixuan.li@emory.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B3A6B?style=flat&logo=google-chrome&logoColor=white)](https://angel0337397.github.io/portfolio.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B3A6B?style=flat&logo=google-chrome&logoColor=white)](https://angel0337397.github.io/index1.html)
 
 A collection of data analysis, machine learning, and strategic research projects from coursework, academic research, and consulting engagements. Each project moves from raw data to structured, actionable findings.
 
